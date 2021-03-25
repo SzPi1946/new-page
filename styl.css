@@ -65,7 +65,7 @@ h1{
 .about-text{
     text-align: justify;
     flex: 1;
-    margin-right: 3%;
+    margin-right: 2%;
 }
 
 .sm {
@@ -147,6 +147,19 @@ footer{
 clear: both;
     width: 100%;
 }
+
+::selection{
+    background-color: black;
+  }
+  
+  ::-webkit-scrollbar{
+    width: 10px;
+    background-color: #f1f1f1;
+  }
+  
+  ::-webkit-scrollbar-thumb{
+    background-color: black;
+  }
 
 .goTop{
     position: fixed;
