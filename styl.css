@@ -125,8 +125,6 @@ width: 400px;
     float: left;
 }
 
-
-
 .right{
   /*  background-color: burlywood;*/
     width: calc(50% - 40px);
