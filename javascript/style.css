@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: "Ubuntu",sans-serif;
+    box-sizing: border-box;
+  }
+
+  body{
+    background-color: rgb(85, 85, 85);
+}
+
+button{
+    background-color: rgb(149, 149, 255);
+    height: 100px;
+    width: 150px;
+}
+
+table{
+    float:left;
+}
+ 
+h1{
+    text-align: center;
+}
+
+.podpis{
+    margin-left: auto;
+    text-align: center;
+
+}
+
+.picture{
+    background-color: white;
+    width: 800px; /* 800/2 = 400 /4  200 /8  100 /16 50 /32 /25   */
+    height: 900px;
+    margin: 2px;
+    border-style: solid;
+    float:left;
+}
+
+.generate{
+    text-align: center;
+    float: left;
+}
+
+.generate2{
+    text-align: center;
+    float: left;
+}
+
+.klasa {
+    width: 2%;
+    background-color: blue;
+    float: left;
+    margin:0;
+    bottom: 0;
+}
